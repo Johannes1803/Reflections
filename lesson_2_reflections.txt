@@ -1,1 +1,2 @@
 the line "$ git init" creates a new repository in the current working directory. In a repository all connected files of a project are stored.
+The staging area allows to add the files wanted and add them to the repository with one singel commit.
