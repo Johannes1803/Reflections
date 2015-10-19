@@ -1,0 +1,14 @@
+Since we know that the old version is working,
+ we know that the bug must be caused by one of the changes (or a combination of the changes). That means we only have to focus on the changes displayed if we want to 
+find the bug. This makes life a lot easier.
+
+Having access to the entire history of a file helps to recapture the process how it was created, what decisions were made (maybe suboptimal decisions that you want to change).
+Knowing the process of creation also helps to
+understand the current version of the code. 
+
+Pros and Cons of manually chosing when to commit:
+The advantage is that you can commit once you have made one logical step. Furthermore, the versions of the code will actually work. The disadvantage is that humans make mistakes and therefore might forget to commit or less experienced programmers commit too often/  not often enough.
+VCS for code like GIT allow saving multiple files in one commit because these files are often connected and therefore changes in one file may affect the other file(s).
+Git log displays all the recent commits. Git diff allows to compare to versions of your files. What are the differences? Which lines were added/deletd?
+VC allows you to be more confident when it comes to making changes/improvments because you know that you can always go back to a previous working version.
+I want to use Git to complete the Java Script course where we build an online portfolio. 
