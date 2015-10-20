@@ -4,3 +4,8 @@ But more importantly I can share my work with certain collaborators or even an a
 Why changes are pulled manually rather than automatically:
 Your work may be in a stage where you don`t consider it ready for the public. Still you want to commit changes
 to it.
+Forking: 
+Consider the following scenario: You want to edit the files of somebody else for your purposes
+without changing that persons copy.
+If you fork Github makes a copy of the repository on the server that you can edit. 
+The main difference compared to clones is that no copy is offline, but all are on the servers.
